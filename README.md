@@ -9,7 +9,7 @@ USAGE
 -----
 The usage of the SIMURG code can be given as follows:
 
-Usage:       perl simurg.pl <File_Name> -ibw=<int> -obw=<int> -quan=<int> -tech=1-7 -act=lin/relu/hsig/htanh/satlin -test=0/1         -not=<int> -dvf=<File_Name> -nnit -creg -rep=binary/csd -aim=area/delay -wout -h       
+Usage:       perl simurg.pl <File_Name> -ibw=<int> -obw=<int> -quan=<int> -tech=1-7 -act=lin/relu/hsig/htanh/satlin -test=0/1                     						 -not=<int> -dvf=<File_Name> -nnit -creg -rep=binary/csd -aim=area/delay -wout -h       
   
 File_Name:   Name of the file including the ANN weigth and bias values                                                                                                                                                
 -ibw:        Bitwidth of inputs, by default it is 8                                                                                                                                                                   
