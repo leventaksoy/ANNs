@@ -8,10 +8,16 @@ Details on the SIMURG tool can be found in its README file.
 For citation, please use the following: 
 
 @INPROCEEDINGS{aksoy20,
+
   author={Aksoy, Levent and Parvin, Sajjad and Nojehdeh, Mohammadreza Esmali and Altun, Mustafa},
+  
   booktitle={IEEE International Symposium on Circuits and Systems (ISCAS)}, 
+  
   title={Efficient Time-Multiplexed Realization of Feedforward Artificial Neural Networks}, 
+  
   year={2020},
+  
   pages={1-5},
+  
   doi={10.1109/ISCAS45731.2020.9181002}
 }
